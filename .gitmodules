@@ -1,3 +1,6 @@
 [submodule "princi-pal-backend-springboot"]
 	path = princi-pal-backend-springboot
 	url = https://github.com/Jaynayon/princi-pal-backend-springboot.git
+[submodule "princi-pal-frontend"]
+	path = princi-pal-frontend
+	url = https://github.com/kolay404/princi-pal-frontend.git
